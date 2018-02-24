@@ -4,11 +4,11 @@ var letter = document.getElementById("letter");
 var capital = document.getElementById("capital");
 var number = document.getElementById("number");
 var length = document.getElementById("length");
-var flag1 = true;
-var flag2 = true;
-var flag3 = true;
-var flag4 = true;
-var flag5 = true;
+var flag1 = false;
+var flag2 = false;
+var flag3 = false;
+var flag4 = false;
+var flag5 = false;
 
 
 // When the user clicks on the password field, show the message box
